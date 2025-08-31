@@ -6,6 +6,10 @@ I am currently a researcher at CREA-AA (Italian Research Council for Agriculture
 
 ---
 
+### Open-source Projects
+
+- **Google Earth Engine:** [CrYP](https://github.com/GeoModelLab/CrYP) | 
+
 <!--
 **gthlor/gthlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
