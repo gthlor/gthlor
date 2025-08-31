@@ -1,6 +1,10 @@
 ## Lorenzo Crecco
 
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](www.linkedin.com/in/crecco-lorenzo-b59666134)
+
 I am currently a researcher at CREA-AA (Italian Research Council for Agriculture and Economics – Research Center on Agriculture and Environment) and a GIS professor at the American University of Rome. My interests are in geospatial data science and open-source software development, with a research focus on utilizing big geospatial data and cloud computing to study environmental changes. Specifically, I am engaged in the analysis of spatially explicit processes at the landscape scale, such as anomalies/stress dynamics and their impact on vegetation phenology.
+
+---
 
 <!--
 **gthlor/gthlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
