@@ -1,8 +1,8 @@
 ## Lorenzo Crecco
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/crecco-lorenzo-b59666134)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3390-321X)
-[![Scopus](https://img.shields.io/badge/Scopus-Author_ID%3A%2057032460000-orange)](https://www.scopus.com/authid/detail.uri?authorId=57678965300)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3390--321X-green?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3390-321X)
+[![Scopus](https://img.shields.io/badge/Scopus-Author_ID%3A%57678965300-orange)](https://www.scopus.com/authid/detail.uri?authorId=57678965300)
 
 
 
