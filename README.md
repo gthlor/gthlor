@@ -13,6 +13,7 @@ I am currently a researcher at CREA-AA (Italian Research Council for Agriculture
 
 ### Open-source Projects
 
+- **Python:** [prismatools](https://github.com/gthlor/prismatools) | 
 - **Google Earth Engine:** [CrYP](https://github.com/GeoModelLab/CrYP) | 
 
 <!--
